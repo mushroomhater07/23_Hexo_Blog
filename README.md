@@ -1,7 +1,7 @@
 # 23_Hexo_Blog
 
 post hexo on github
-- https://hexo.io/docs/github-pages.html
+
 
 ```shell
 npm install hexo-cli -g
@@ -10,5 +10,8 @@ cd blog
 npm install
 hexo server
 ```
-
+Github action - use custom action
+- copy from https://hexo.io/docs/github-pages.html
+run deployment
+- [!important] change _config.yml in main branch url:project_url
 end
