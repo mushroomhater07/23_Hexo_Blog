@@ -18,6 +18,3 @@ hexo server
 - edit _config.yml url:https://github.com/mushroomhater07/23_Hexo_Blog
 *url is for <link> href*
 - change Page branch to gh-page
-
-## ToDo
-Fix CSS
