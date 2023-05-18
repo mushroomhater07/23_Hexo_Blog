@@ -8,6 +8,7 @@ npm install
 hexo server
 ```
 # On update
+`https://hexo.io/docs/commands#new`
 - main.yml => run
 - github page => run
 
