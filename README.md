@@ -9,7 +9,7 @@ hexo server
 ```
 # On update
 - main.yml => run
-- github age => run
+- github page => run
 
 # Github action - use custom action
 - copy from https://hexo.io/docs/github-pages.html
